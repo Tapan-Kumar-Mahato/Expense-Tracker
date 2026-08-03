@@ -40,7 +40,7 @@ A modern full-stack Expense Tracker web application built using the **MERN Stack
 ![Login](https://github.com/Tapan-Kumar-Mahato/Expense-Tracker/blob/f4e59b20b06a04382112f9fe8425914d63e5d54f/Screenshot%202026-08-03%20202014.png)
 
 ### Register Page
-![Register](screenshots/register.png)
+![Register](https://github.com/Tapan-Kumar-Mahato/Expense-Tracker/blob/fc90f70cc17ce964de5e30c9359801002141c695/Screenshot%202026-08-03%20203655.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
