@@ -48,6 +48,7 @@ A modern full-stack Expense Tracker web application built using the **MERN Stack
 
 ### Transactions
 ![Transactions](screenshots/transactions.png)
+![Transactions](screenshots/transactions.png)
 
 ### Budget
 ![Budget](screenshots/budget.png)
