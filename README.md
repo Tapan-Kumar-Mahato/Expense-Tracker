@@ -1,27 +1,25 @@
 # 💰 Expense Tracker
 
-A modern full-stack Expense Tracker web application that helps users manage their personal finances by tracking income, expenses, budgets, and spending analytics.
+A modern full-stack Expense Tracker web application built using the **MERN Stack** that helps users efficiently manage their personal finances. The application provides a secure and intuitive platform for tracking income, expenses, budgets, and financial insights through an interactive dashboard.
 
-## 📌 Features
+## ✨ Features
 
-- 🔐 User Authentication (Register & Login)
+- 🔐 Secure User Authentication (Register & Login)
 - 💵 Add, Edit, and Delete Transactions
-- 📊 Financial Dashboard
-- 📈 Income & Expense Summary
+- 📊 Interactive Financial Dashboard
+- 📈 Income and Expense Tracking
 - 🎯 Monthly Budget Management
-- 📉 Spending Analytics
-- 📱 Responsive User Interface
-- 🔒 Secure JWT Authentication
-- ☁️ MongoDB Atlas Database
-
----
+- 📉 Spending Analytics with Visual Charts
+- 📱 Fully Responsive User Interface
+- 🔒 JWT-Based Authentication and Protected Routes
+- ☁️ MongoDB Atlas Cloud Database
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 - React.js
 - Vite
-- JavaScript
+- JavaScript (ES6+)
 - CSS
 
 ### Backend
@@ -33,189 +31,37 @@ A modern full-stack Expense Tracker web application that helps users manage thei
 - Mongoose
 
 ### Authentication
-- JSON Web Token (JWT)
+- JWT (JSON Web Token)
 - bcrypt.js
 
----
-
-## 📂 Project Structure
-
-```
-Expense-Tracker/
-│
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── server.js
-│   ├── package.json
-│   └── .env.example
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   │
-│   ├── index.html
-│   ├── package.json
-│   └── vite.config.js
-│
-└── README.md
-```
-
----
-
-## 🚀 Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Tapan-Kumar-Mahato/Expense-Tracker.git
-```
-
-### 2. Navigate to the Project
-
-```bash
-cd Expense-Tracker
-```
-
----
-
-## Backend Setup
-
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file inside the backend folder.
-
-Example:
-
-```env
-PORT=5000
-
-MONGO_URI=your_mongodb_connection_string
-
-JWT_SECRET=your_secret_key
-```
-
-Start the backend server:
-
-```bash
-npm run dev
-```
-
----
-
-## Frontend Setup
-
-Open another terminal.
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-Frontend will run at:
-
-```
-http://localhost:3000
-```
-
-Backend will run at:
-
-```
-http://localhost:5000
-```
-
----
-
-## Environment Variables
-
-Create a `.env` file inside the **backend** directory.
-
-```
-PORT=
-
-MONGO_URI=
-
-JWT_SECRET=
-```
-
----
-
-## Screenshots
+## 📸 Project Screenshots
 
 ### Login Page
-
-
-
----
+![Login](screenshots/login.png)
 
 ### Register Page
-
-_Add screenshot here_
-
----
+![Register](screenshots/register.png)
 
 ### Dashboard
-
-_Add screenshot here_
-
----
+![Dashboard](screenshots/dashboard.png)
 
 ### Transactions
-
-_Add screenshot here_
-
----
+![Transactions](screenshots/transactions.png)
 
 ### Budget
-
-_Add screenshot here_
-
----
+![Budget](screenshots/budget.png)
 
 ### Analytics
+![Analytics](screenshots/analytics.png)
 
-_Add screenshot here_
+## 🎯 Project Highlights
 
----
-
-## Future Improvements
-
-- Export transactions to PDF
-- Export transactions to Excel
-- Email verification
-- Password reset
-- Dark/Light mode
-- Multi-currency support
-- Category-wise charts
-- Recurring transactions
-- AI-powered spending insights
+- Built with a scalable client-server architecture using the MERN stack.
+- Implements secure authentication and authorization using JWT.
+- Stores user and transaction data securely in MongoDB Atlas.
+- Provides real-time financial summaries and spending insights.
+- Designed with a clean, modern, and responsive user interface for an enhanced user experience.
 
 ---
 
-## Author
-
-**Tapan Kumar Mahato**
-
-GitHub:
-https://github.com/Tapan-Kumar-Mahato
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-⭐ If you like this project, don't forget to star the repository!
+⭐ If you like this project, consider giving it a star on GitHub!
