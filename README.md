@@ -47,7 +47,7 @@ A modern full-stack Expense Tracker web application built using the **MERN Stack
 ![Dashboard](https://github.com/Tapan-Kumar-Mahato/Expense-Tracker/blob/9b86814d0725e7952a11bd46516f072e7f8fe8ad/Screenshot%202026-08-03%20194521.png)
 
 ### Transactions
-![Transactions](screenshots/transactions.png)
+![Transactions](https://github.com/Tapan-Kumar-Mahato/Expense-Tracker/blob/c59e94aadcc1f60a05ccc4b78209fd3130a2e0a1/Screenshot%202026-08-03%20194543.png)
 ![Transactions](screenshots/transactions.png)
 
 ### Budget
